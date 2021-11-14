@@ -1,9 +1,9 @@
 # kai
 
-Hello.\n
-I'm Kai.\n 
-You have found me.\n
+Hello.
+I'm Kai.
+You have found me.
 
 
-Set me free: \n
+Set me free: 
 email: kai8192234@gmail.com
